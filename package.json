@@ -1,0 +1,29 @@
+{
+  "name": "passport-max-cas",
+  "version": "0.0.1",
+  "description": "MAX Cas authentication strategy for Passport.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jhulick/passport-max-cas.git"
+  },
+  "keywords": [
+    "passport",
+    "auth",
+    "cas"
+  ],
+  "author": {
+    "name": "Jeremy Hulick"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhulick/passport-max-cas"
+  },
+  "homepage": "https://github.com/jhulick/passport-max-cas",
+  "dependencies": {
+    "passport": "~0.2.0",
+    "xml2json": "~0.4.0",
+    "lodash": "~2.4.1"
+  }
+}
