@@ -1,4 +1,1 @@
-passport-max-cas
-=====================
-
-MAX CAS strategy for passport.js library
+Passport CAS strategy for testing OMB MAX CAS
